@@ -14,7 +14,7 @@ app.use(bodyParser.json())
 
 
 app.get('/', (req, res) => {
-  res.send('Hello World! ddddddghh')
+  res.send('wellcome to Event management server')
 })
 
 
