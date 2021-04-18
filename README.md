@@ -1,9 +1,9 @@
-# React Programming Hero project Harmoni Event Management (Assignmet -11)
+# React Programming Hero project Harmoni(serversite) Event Management (Assignmet -11)
 
 My Project Website Link [visit Website](https://nifty-kowalevski-1ba6c9.netlify.app/).
 
 
-serversite link [visit websit] (https://sheltered-shore-39932.herokuapp.com).
+serversite link [visit websit] (https://elated-mclean-e6455f.netlify.app/).
 github server [visit website] (https://github.com/Porgramming-Hero-web-course/complete-website-server-rana656454).
 ## Available Features
   
